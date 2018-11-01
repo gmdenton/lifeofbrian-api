@@ -1,4 +1,4 @@
-requests==2.18.4
-Flask==0.12.2
+requests==2.20.0
+Flask==0.12.3
 Flask-Injector==0.10.1
 Flask_Restful==0.3.6
