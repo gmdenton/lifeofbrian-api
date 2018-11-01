@@ -13,6 +13,12 @@ The API exposes 3 endpoints:
 - GET - To retrieve a list of all database records.
 - GET (with URI Parameter) - To retrieve a single record from the database.
 
+## Built With
+Python 3.6.4
+FlasK 0.12.3
+Requests 2.20.0
+SQLite3
+
 ## Authors
 
 Initial Version: Gerard Denton
